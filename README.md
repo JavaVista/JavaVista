@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📚 I’m currently reading
+<a href="https://app.daily.dev/codevista"><img src="https://api.daily.dev/devcards/3c1624b0fb064302a927dd9daf29237a.png?r=vu0" width="400" alt="Javier Carrion's Dev Card"/></a>
