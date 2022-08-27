@@ -17,7 +17,7 @@ I use [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.sv
 
 [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/) [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/) [![.NET](https://img.shields.io/badge/--512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/) [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/) [![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/) [![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/)
 
-- ![Twitter Follow](https://img.shields.io/twitter/follow/seetechnologic?style=social), where I post dev resources that I find in my dev travels. 
+- ![Twitter Follow](https://img.shields.io/twitter/follow/seetechnologic?style=social), where I ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fseetechnologic) about dev resources that I find in my dev travels. 
 - 
 
 If you like what I do and want to support me on my dev adventures, send me a cheerful coffee cappuccino ☕ or a beer 🍻, and I might do the same for you. 👉👈
