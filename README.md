@@ -28,8 +28,6 @@ I use [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.sv
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?borderColor=%2358a6ff&theme=tokyonight)
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-
 ***
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/seetechnologic?style=social), where I ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fseetechnologic) about dev resources that I find in my dev travels.
