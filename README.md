@@ -17,6 +17,7 @@
   </a>  
 </div>  
 
+<br />
 
 This is Javier aka 'Javi' a software engineer by day and a never-ending learning developer by night. I specialize in front-end development and mobile development. But, I have a curious mind and like to dabble in building 💻 PCs and tinkering with raspberry PIs from time to time. I live in 🌞 FL in the city that is the “Horse 🐎 Capital of the World."
 
