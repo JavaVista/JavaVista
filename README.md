@@ -1,6 +1,6 @@
 <img src="https://github.com/JavaVista/JavaVista/blob/main/header.png" alt="👋 Hola! I'm Javi" title="👋 Hola! I'm Javi"/>
 
-![](https://komarev.com/ghpvc/?username=JavaVista&label=Thank+you+for+Visiting!+You+are+number:)
+![](https://komarev.com/ghpvc/?username=JavaVista&label=Thank+you+for+Visiting!+Congrats!+You+are+number:)
 
 <div align="center">
   <a href="https://linkedin.com/in/technologic" target="_blank">
@@ -26,6 +26,8 @@ I am also a Co-Organizer for GDG Central Florida 🚀 & DevFest Florida 🌴🏖
 I use [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg) by day and [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg) by night while I play with [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg) with [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/) on both.
 
 <h2>Languages & Tools</h2>
+
+<img width="30%" align="right" alt="Treasure Map" src="https://github.com/JavaVista/JavaVista/blob/main/treasure-map.svg" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavaVista&layout=compact&langs_count=10&theme=tokyonight&border_radius=20&border_color=58a6ff)](https://github.com/anuraghazra/github-readme-stats)
 
