@@ -1,4 +1,4 @@
-<img src="https://github.com/JavaVista/JavaVista/blob/main/header.png" alt="👋 Hola! I'm Javi" title="👋 Hola! I'm Javi"/>
+<img src="https://github.com/JavaVista/JavaVista/blob/main/github-header-image.png" alt="👋 Hola! I'm Javi" title="👋 Hola! I'm Javi"/>
 
 ![](https://komarev.com/ghpvc/?username=JavaVista&label=Thank+you+for+Visiting!+Congrats!+You+are+number:)
 
