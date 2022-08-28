@@ -47,6 +47,10 @@ I use [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.sv
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?borderColor=%2358a6ff&theme=tokyonight)
 
+### Dev quote to make you 🤔
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ***
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/seetechnologic?style=social), where I ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fseetechnologic) about dev resources that I find in my dev travels.
@@ -55,6 +59,8 @@ I use [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.sv
 
 If you like what I do and want to support me on my dev adventures, send me a cheerful coffee cappuccino ☕ or a beer 🍻, and I might do the same for you. 👉👈
 
-<p align="center"> <a href="https://www.buymeacoffee.com/codevista" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee or a Beer" width="150" ></a> </p>
+<div align="center"> <a href="https://www.buymeacoffee.com/codevista" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee or a Beer" width="150" ></a> 
+
+<img width="30%" alt="Chillin' with a Coffee" src="https://github.com/JavaVista/JavaVista/blob/main/chill%20scene.gif" /> </div>
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
