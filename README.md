@@ -24,7 +24,7 @@ This is Javier aka 'Javi' a software engineer by day and a never-ending learning
 I am also a Co-Organizer for GDG Central Florida 🚀 & DevFest Florida 🌴🏖 - Florida's most magical developer conference. Trying to give a vision to the dev community while helping us learn about new technologies and a better understanding of the current ones. 
 
 I use ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) by day and ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) by night while I play with ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) with [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
- on both.
+ on all.
 
 <h2>Languages & Tools</h2>
 
