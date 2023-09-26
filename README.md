@@ -56,7 +56,6 @@ I use ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/seetechnologic?style=social), where I ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fseetechnologic) about dev resources that I find in my dev travels.
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=seetechnologic&layout=wide)](https://github.com/gazf/github-readme-twitter)
 
 If you like what I do and want to support me on my dev adventures, send me a cheerful coffee cappuccino ☕ or a beer 🍻, and I might do the same for you. 👉👈
 
