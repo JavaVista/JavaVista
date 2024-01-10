@@ -52,6 +52,10 @@ I use ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin)](https://github.com/piyushsuthar/github-readme-quotes)
 
+### Need a drink after this? 
+
+Check out myGPT for a recipe 🍹 [![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://gptstore.ai/gpts/Gb2dMKaQCs-wepa-mixology-mojo)
+
 ***
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/seetechnologic?style=social), where I ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fseetechnologic) about dev resources that I find in my dev travels.
