@@ -42,10 +42,6 @@ I use ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge
 <p align="center"><a href="https://app.daily.dev/codevista"><img src="https://github.com/JavaVista/JavaVista/blob/main/devcard.svg" width="300" alt="Javier 'Javi' Carrion's Dev Card"/></a></p>
 
 
-### Currently listening to the following ![Spotify Badge](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=plastic):
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=suavedragon&cover_image=true&theme=novatorem&bar_color=58a6ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=suavedragon&redirect=true)
-
 ### Something to make you :slightly_smiling_face:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?borderColor=%2358a6ff&theme=tokyonight)
