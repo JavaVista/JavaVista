@@ -41,6 +41,8 @@ I use ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge
 
 <p align="center"><a href="https://app.daily.dev/codevista"><img src="https://github.com/JavaVista/JavaVista/blob/main/devcard.svg" width="300" alt="Javier 'Javi' Carrion's Dev Card"/></a></p>
 
+<p align="center"><a href="https://app.daily.dev/codevista"><img src="https://api.daily.dev/devcards/v2/dc277084f53d4fb284c3cc295068a639.png?r=kch" width="356" alt="Javier Carrion's Dev Card"/></a></p>
+
 
 ### Something to make you :slightly_smiling_face:
 
